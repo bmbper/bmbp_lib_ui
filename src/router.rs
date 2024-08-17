@@ -3,7 +3,7 @@ use salvo::prelude::*;
 use salvo::serve_static::static_embed;
 
 #[derive(RustEmbed)]
-#[folder = "static"]
+#[folder = "web/static"]
 struct BmbpStaticAssets;
 ///
 /// bmbp/ui/lib/<**path>
