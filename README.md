@@ -29,6 +29,8 @@
  bmbp/ui/lib/react/react-dom.profiling.min.js
  bmbp/ui/lib/react/react.production.min.js
  bmbp/ui/lib/axios.min.js
+ bmbp/ui/lib/http.js
+
  ```
 
 ## example
