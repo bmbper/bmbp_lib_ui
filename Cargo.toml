@@ -1,6 +1,6 @@
 [package]
 name = "bmbp_lib_ui"
-version = "0.1.2"
+version = "0.1.5"
 edition = "2021"
 authors = ["bmbp<rs_bmbp.163.com>"]
 description = "BMBP TERA CONTEXT VARS"
