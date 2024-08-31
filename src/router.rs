@@ -3,7 +3,7 @@ use salvo::prelude::*;
 use salvo::serve_static::static_embed;
 
 #[derive(RustEmbed)]
-#[folder = "web/static"]
+#[folder = "web/static/lib"]
 struct BmbpStaticAssets;
 /// use embed react bootstrap react file in static,the path is `bmbp/ui/lib/<path>`
 /// # arco
